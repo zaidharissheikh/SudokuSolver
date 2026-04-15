@@ -1,6 +1,6 @@
 # Sudoku CSP Solver
 
-A highly efficient, Python-based Sudoku solver built using Constraint Satisfaction Problem (CSP) techniques. This solver is capable of cracking Sudoku puzzles of any difficulty—from easy boards to "Very Hard" variants designed to thwart basic logic by aggressively pruning the search space.
+A highly efficient, Python-based Sudoku solver built using Constraint Satisfaction Problem (CSP) techniques. This solver is capable of cracking Sudoku puzzles of any difficulty from easy boards to "Very Hard" variants designed to thwart basic logic by aggressively pruning the search space.
 
 ## 🚀 Features
 
